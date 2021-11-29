@@ -22,3 +22,6 @@ C = 200
 #--------------------------------------------
 print("Added this line from the account of InjamulHoque")
 z = 500
+print("Added this line from the account of InjamulHoque")
+K = 1500
+L = 1600
