@@ -25,4 +25,6 @@ C = 900
 #--------------------------------------------
 print("Added this line from the account of InjamulHoque")
 y = 200
-
+print("Added this line from the account of InjamulHoque")
+K = 1000
+L = 1100
